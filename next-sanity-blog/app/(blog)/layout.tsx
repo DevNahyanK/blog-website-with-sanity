@@ -90,12 +90,12 @@ export default async function RootLayout({
                     >
                       Thanks for visiting
                     </Link>
-                    <a
+                    <Link
                       href="/"
                       className="mx-3 font-bold hover:underline"
                     >
                       Back to Home
-                    </a>
+                    </Link>
                   </div>
                 </div>
               )}
